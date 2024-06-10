@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          StockInfo App by Pierre
         </a>
       </header>
     </div>
